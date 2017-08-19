@@ -1,0 +1,23 @@
+﻿body {
+  font-size: 14px;
+  line-height: 24px;
+  color: black;
+  font-weight: normal;
+  font-family: "PT Sans Narrow Bold", sans-serif;
+}
+
+.section-caption {
+  font-size: 30px;
+  line-height: 42px;
+  color: black;
+  font-weight: bold;
+  font-family: "PT Sans Narrow Bold", sans-serif;
+}
+
+.section-sub-caption {
+  font-size: 14px;
+  line-height: 18px;
+  color: black;
+  font-weight: bold;
+  font-family: "PT Sans Narrow Bold", sans-serif;
+}
